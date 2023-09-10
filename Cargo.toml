@@ -1,0 +1,15 @@
+[package]
+name = "baklava"
+version = "0.1.0"
+authors = ["Behemehal <info@behemehal.org>", "Ahmetcan Aksu <ahmetcanaksu@behemehal.org>"]
+edition = "2021"
+description = "Baklava is a Turkish sweet and http server"
+categories = ["network-programming"]
+keywords = ["network", "http", "stream"]
+license = "GPL-2.0"
+readme = "README.md"
+documentation = "https://docs.rs/baklava"
+repository = "https://github.com/behemehal/Baklava"
+
+[dependencies]
+anyhow = "1.0.75"
